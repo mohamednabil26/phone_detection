@@ -1,5 +1,5 @@
 # phone_detection
-# 🛡️ ProctorAI Vision — Automated Exam Security & Behavioral Analytics
+
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-000000?style=for-the-badge&logo=yolo)
